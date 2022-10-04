@@ -20,12 +20,13 @@
 
 #### MY SKILLS
 
-- JavaScript, TypeScript, AJAX, REST API, JQuery <br/>
-- NextJS, React, Redux, Thunk, MobX, React Router, StyledComponents <br/>
-- Vue, Vuex, Router <br/>
+- Next, React, Redux, Thunk, Styled Components<br/>
+- JavaScript, TypeScript, AJAX, REST API, JQuery<br/>
 - HTML, CSS, Less, SCSS, Bootstrap, BEM <br/>
-- Node(basic), MySQL, PHP(basic) <br/>
 - Git, Webpack, Gulp <br/>
+- MongoDB, mongoose
+- Vue, Vuex<br/>
+- Basic knowldge of Node, MySQL, PHP<br/>
 - Photoshop, Figma <br/>
 - Pixel perfect web-pages <br/>
 - Single Page Applications (SPA) <br/>
