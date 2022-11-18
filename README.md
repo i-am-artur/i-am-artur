@@ -29,10 +29,11 @@
 - Basic knowldge of Node, MySQL, PHP<br/>
 - Photoshop, Figma <br/>
 - Pixel perfect web-pages <br/>
-- Single Page Applications (SPA) <br/>
-- Responsive web pages that adapt to a variety of devices and screen sizes. (Windows, Apple, Android, etc.) <br/>
-- Web-page performance optimization <br/>
-- Common algorithm patterns, OOP, MVC, SOLID, DRY, YAGNI <br/>
+- Development of
+    - Single Page Applications (SPA) <br/>
+    - Responsive web pages that adapt to a variety of devices and screen sizes. (Windows, Apple, Android, etc.) <br/>
+    - Web-page performance optimization <br/>
+- Use of common algorithm patterns, OOP, MVC, SOLID, DRY, YAGNI <br/>
 
 #### LANGUAGE KNOWLEDGE
 
