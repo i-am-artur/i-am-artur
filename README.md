@@ -32,11 +32,11 @@
 - Development of
     - Single Page Applications (SPA) <br/>
     - Responsive web pages that adapt to a variety of devices and screen sizes. (Windows, Apple, Android, etc.) <br/>
-    - Web-page performance optimization <br/>
+- Web-page performance optimization <br/>
 - Use of common algorithm patterns, OOP, MVC, SOLID, DRY, YAGNI <br/>
 
 #### LANGUAGE KNOWLEDGE
 
-- English (B2) :us: :canada: :gb: :australia: <br>
+- English (B2) <br>
 - Russian (Native)<br>
-- Ukrainian (Conversational) :ukraine:
+- Ukrainian (Conversational)
