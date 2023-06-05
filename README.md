@@ -10,6 +10,7 @@
 ## I am Front-end developer
 
 - :earth_africa: I am from Ukraine (Kharkiv) :ukraine:<br/>
+<flag-icon key="canada"></flag-icon>
 - I like :snowboarder:snowboarding, :bicyclist:bicycling and :luggage:travelling
   <br/>
 
