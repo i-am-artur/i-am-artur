@@ -9,14 +9,14 @@
 
 ## I am Front-end developer
 
-- :earth_africa: I am from Ukraine (Kharkiv) :ukraine:<br/>
+- :earth_africa: I am from Ukraine (Kharkiv)<br/>
 - I like :snowboarder:snowboarding, :bicyclist:bicycling and :luggage:travelling
   <br/>
 
 #### CONTACT ME
 
 - :envelope: adrenalin247@gmail.com
-- <img style="border-radius: 10px; width: 16px;" src="https://github.com/i-am-artur/I-am-artur/blob/master/images/instagram.png">[www.instagram.com/a_r_t_u_r_karapetyan](www.instagram.com/a_r_t_u_r_karapetyan)
+- <img style="border-radius: 10px; width: 16px;" src="https://github.com/i-am-artur/I-am-artur/blob/master/images/instagram.png"> [www.instagram.com/a_r_t_u_r_karapetyan](www.instagram.com/a_r_t_u_r_karapetyan)
 
 #### MY SKILLS
 
@@ -59,11 +59,22 @@ I was responsible to develop:
 - Page where user can create breaks in day schedual (Breaks such as lunch, change of location and etc.) Saved by sending form to server.
 - Page where user can set status of actors in calendar (Statuses are such as available, no status, day off and etc.) Every status change saved to server with API call.
 
-Technologies: React, context, axios, styled-components, MUI, FontAwesome
+Technologies: React, typescript, context, axios, styled-components, MUI, FontAwesome
 
 
 #### PET-PROJECTS
 
-<b>Todo</b>
+<b>Todos list</b> [Github](https://github.com/i-am-artur/todo)
+Plan, manage, and track your tasks
 
+Development:
+- Designed in Penpot
+- User registration and login with JWT emulation.
+- MUI library for layout, components and display mode (dark/light)
+- Redux and reduxjs/toolkit with use of middleware and thunk 
+- React router for navigation between pages
+- Zod for form validation
+- emotion for css. FontAwesome for icons
+- axios-mock-adapter-path-params for server/api emulation
+- typescript to add type safety to the project
 
