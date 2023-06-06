@@ -20,6 +20,7 @@
 
 #### MY SKILLS
 
+<span style="color: #006699"> Some green text </span>
 - NextJS, React, Redux, Thunk, React Router<br/>
 - JavaScript, AJAX, REST API, JQuery<br/>
 - TypeScript, Zod
