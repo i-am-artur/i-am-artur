@@ -64,7 +64,7 @@ I was responsible to develop:
 Tech stack: React, typescript, context, axios, styled-components, MUI, FontAwesome
 
 #### PET-PROJECTS
-<font color="red">ghf</font>
+$\color[RGB]{155,127,0}ghf
 <b>Todos list</b> [(Github)](https://github.com/i-am-artur/todo)<br/>
 Plan, manage, and track your tasks
 
