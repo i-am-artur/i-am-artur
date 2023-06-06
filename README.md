@@ -19,8 +19,13 @@
 - <img style="border-radius: 10px; width: 16px;" src="https://github.com/i-am-artur/I-am-artur/blob/master/images/instagram.png"> [www.instagram.com/a_r_t_u_r_karapetyan](www.instagram.com/a_r_t_u_r_karapetyan)
 
 #### MY SKILLS
-
-<span style="color: #006699"> Some green text </span>
+#### MY SKILLS ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 - NextJS, React, Redux, Thunk, React Router<br/>
 - JavaScript, AJAX, REST API, JQuery<br/>
 - TypeScript, Zod
@@ -65,7 +70,7 @@ I was responsible to develop:
 Tech stack: React, typescript, context, axios, styled-components, MUI, FontAwesome
 
 #### PET-PROJECTS
-$\color[RGB]{155,127,0}ghf
+
 <b>Todos list</b> [(Github)](https://github.com/i-am-artur/todo)<br/>
 Plan, manage, and track your tasks
 
