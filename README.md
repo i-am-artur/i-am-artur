@@ -17,7 +17,7 @@
 ## CONTACT ME
 
 - :envelope: adrenalin247@gmail.com
-- <img style="border-radius: 10px; width: 16px;" src="https://github.com/i-am-artur/I-am-artur/blob/master/images/instagram.png"> [www.instagram.com/a_r_t_u_r_karapetyan](www.instagram.com/a_r_t_u_r_karapetyan)
+- <img style="border-radius: 10px; width: 16px;" src="https://github.com/i-am-artur/I-am-artur/blob/master/images/instagram.png"> [www.instagram.com/a_r_t_u_r_karapetyan](http://www.instagram.com/a_r_t_u_r_karapetyan)
 
 ## MY SKILLS
 
