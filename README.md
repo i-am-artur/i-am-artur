@@ -88,19 +88,19 @@ Make calculations with current currency exchange rates. Currency rates are fetch
 • Tech stack: NextJS, React, Typescript, Redux, Thunk, Styled components, Formik, Yup, Mustache.
 • Languages: English, Russian
 
-ANIONIT. [(www)](http://artur.greatsite.net/Portfolio/anionit/)<br />
+<b>ANIONIT</b> [(www)](http://artur.greatsite.net/Portfolio/anionit/)<br />
 Website for Antiseptic manufacturer.
 • Tech stack: React, Redux, Router, Styled components, Immer, react-transition-group.
 
-Tic Tac Toe. [(www)](http://artur.great-site.net/Portfolio/TicTacToe/) [(github)](https://github.com/i-am-artur/TicTacToe)<br />
+<b>Tic Tac Toe</b> [(www)](http://artur.great-site.net/Portfolio/TicTacToe/) [(github)](https://github.com/i-am-artur/TicTacToe)<br />
 Game developed to practice MVC and EventBus.
 • Tech stack: JavaScript, HTML, SCSS/CSS, Webpack
 
-GT Puritas. [(www)](http://artur.great-site.net/Portfolio/gtpuritas/)<br />
+<b>GT Puritas</b> [(www)](http://artur.great-site.net/Portfolio/gtpuritas/)<br />
 Website for company, which provides project development of power plants.
 • Tech stack: Vue, Vuex, Less
 • Applied image optimization and lazy component loading
 
-My Webpack 5 boilerplate [(github)](https://github.com/i-am-artur/Webpack-5-Boilerplate)<br />
-My Gulp boilerplate [(github)](https://github.com/i-am-artur/gulp-boilerplate)
+<b>My Webpack 5 boilerplate</b> [(github)](https://github.com/i-am-artur/Webpack-5-Boilerplate)<br />
+<b>My Gulp boilerplate</b> [(github)](https://github.com/i-am-artur/gulp-boilerplate)
 
