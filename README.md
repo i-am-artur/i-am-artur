@@ -64,7 +64,7 @@ I was responsible to develop:
 
 Tech stack: React, typescript, context, axios, styled-components, MUI, FontAwesome
 
-#### PET-PROJECTS
+#### FREELANCE and PET-PROJECTS
 
 <b>Todos list</b> [(github)](https://github.com/i-am-artur/todo)<br/>
 Plan, manage, and track your tasks
