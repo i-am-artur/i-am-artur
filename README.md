@@ -1,4 +1,4 @@
-<style>H4{color:Blue;}</style>
+
 <p align="center" width="100%">
     <img width="100px" src="https://github.com/i-am-artur/I-am-artur/blob/master/images/faviconM.jpg">
 </p>
@@ -20,13 +20,7 @@
 - <img style="border-radius: 10px; width: 16px;" src="https://github.com/i-am-artur/I-am-artur/blob/master/images/instagram.png"> [www.instagram.com/a_r_t_u_r_karapetyan](www.instagram.com/a_r_t_u_r_karapetyan)
 
 #### MY SKILLS
-#### MY SKILLS ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+
 - NextJS, React, Redux, Thunk, React Router<br/>
 - JavaScript, AJAX, REST API, JQuery<br/>
 - TypeScript, Zod
