@@ -66,7 +66,7 @@ Tech stack: React, typescript, context, axios, styled-components, MUI, FontAweso
 
 #### PET-PROJECTS
 
-<b>Todos list</b> [(Github)](https://github.com/i-am-artur/todo)<br/>
+<b>Todos list</b> [(github)](https://github.com/i-am-artur/todo)<br/>
 Plan, manage, and track your tasks
 
 Development:
