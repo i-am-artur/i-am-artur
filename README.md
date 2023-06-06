@@ -37,13 +37,13 @@ I can develop:
 - Single Page Applications (SPA) <br/>
 - Responsive web pages that adapt to a variety of devices and screen sizes. (Windows, Apple, Android, etc.) <br/>
 
-#### KNOWLEDGE OF LANGUAGES
+## KNOWLEDGE OF LANGUAGES
 
 - English (B2) <br>
 - Ukrainian (Conversational)
 - Russian<br>
 
-#### MY PORTFOLIO
+## MY PORTFOLIO
 
 Link: [artur.great-site.net](http://artur.great-site.net)
 
@@ -64,9 +64,9 @@ I was responsible to develop:
 
 Tech stack: React, typescript, context, axios, styled-components, MUI, FontAwesome
 
-#### FREELANCE and PET-PROJECTS
+## FREELANCE and PET-PROJECTS
 
-<b>Todos list</b> [(github)](https://github.com/i-am-artur/todo)<br/>
+### Todos list [(github)](https://github.com/i-am-artur/todo)<br/>
 Plan, manage, and track your tasks
 
 Development:
@@ -80,7 +80,7 @@ Development:
 - axios-mock-adapter-path-params for server/api emulation
 - Typescript to add type safety to the project
 
-Currency Converter.<br />
+### Currency Converter
 Make calculations with current currency exchange rates. Currency rates are fetched from freecurrencyapi.net
 - React version with Google authentication: [(www)](http://artur.great-site.net/Portfolio/currency-converter)
 - NextJS version with Github authentication: [(www)](https://currency-exchange-next-7vaa.vercel.app)
@@ -88,19 +88,19 @@ Make calculations with current currency exchange rates. Currency rates are fetch
 • Tech stack: NextJS, React, Typescript, Redux, Thunk, Styled components, Formik, Yup, Mustache.
 • Languages: English, Russian
 
-<b>ANIONIT</b> [(www)](http://www.artur.great-site.net/Portfolio/anionit/)<br />
+### ANIONIT [(www)](http://www.artur.great-site.net/Portfolio/anionit/)
 Website for Antiseptic manufacturer.
 • Tech stack: React, Redux, Router, Styled components, Immer, react-transition-group.
 
-<b>Tic Tac Toe</b> [(www)](http://artur.great-site.net/Portfolio/TicTacToe/) [(github)](https://github.com/i-am-artur/TicTacToe)<br />
+### Tic Tac Toe [(www)](http://artur.great-site.net/Portfolio/TicTacToe/) [(github)](https://github.com/i-am-artur/TicTacToe)
 Game developed to practice MVC and EventBus.
 • Tech stack: JavaScript, HTML, SCSS/CSS, Webpack
 
-<b>GT Puritas</b> [(www)](http://artur.great-site.net/Portfolio/gtpuritas/)<br />
+### GT Puritas [(www)](http://artur.great-site.net/Portfolio/gtpuritas/)
 Website for company, which provides project development of power plants.
 • Tech stack: Vue, Vuex, Less
 • Applied image optimization and lazy component loading
 
-<b>My Webpack 5 boilerplate</b> [(github)](https://github.com/i-am-artur/Webpack-5-Boilerplate)<br />
-<b>My Gulp boilerplate</b> [(github)](https://github.com/i-am-artur/gulp-boilerplate)
+### My Webpack 5 boilerplate</b> [(github)](https://github.com/i-am-artur/Webpack-5-Boilerplate)
+### My Gulp boilerplate</b> [(github)](https://github.com/i-am-artur/gulp-boilerplate)
 
