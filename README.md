@@ -101,6 +101,6 @@ Website for company, which provides project development of power plants.
 • Tech stack: Vue, Vuex, Less
 • Applied image optimization and lazy component loading
 
-My Webpack 5 boilerplate [github](https://github.com/i-am-artur/Webpack-5-Boilerplate)<br />
-My Gulp boilerplate [github](https://github.com/i-am-artur/gulp-boilerplate)
+My Webpack 5 boilerplate [(github)](https://github.com/i-am-artur/Webpack-5-Boilerplate)<br />
+My Gulp boilerplate [(github)](https://github.com/i-am-artur/gulp-boilerplate)
 
