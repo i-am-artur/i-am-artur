@@ -63,9 +63,9 @@ I was responsible to develop:
 
 Tech stack: React, typescript, context, axios, styled-components, MUI, FontAwesome
 
-#### <span style="color: #0A69AB">PET-PROJECTS</span>
-
-<b>Todos list</b> [Github](https://github.com/i-am-artur/todo)
+#### ![#f03c15]PET-PROJECTS
+`#RRGGBB`ghf
+<b>Todos list</b> [(Github)](https://github.com/i-am-artur/todo)<br/>
 Plan, manage, and track your tasks
 
 Development:
@@ -79,27 +79,27 @@ Development:
 - axios-mock-adapter-path-params for server/api emulation
 - Typescript to add type safety to the project
 
-Currency Converter. 
+Currency Converter.<br />
 Make calculations with current currency exchange rates. Currency rates are fetched from freecurrencyapi.net
-- React version with Google authentication: [www](http://artur.great-site.net/Portfolio/currency-converter)
-- NextJS version with Github authentication: [www](https://currency-exchange-next-7vaa.vercel.app)
+- React version with Google authentication: [(www)](http://artur.great-site.net/Portfolio/currency-converter)
+- NextJS version with Github authentication: [(www)](https://currency-exchange-next-7vaa.vercel.app)
 
 • Tech stack: NextJS, React, Typescript, Redux, Thunk, Styled components, Formik, Yup, Mustache.
 • Languages: English, Russian
 
-ANIONIT. [www](http://artur.greatsite.net/Portfolio/anionit/)
+ANIONIT. [(www)](http://artur.greatsite.net/Portfolio/anionit/)<br />
 Website for Antiseptic manufacturer.
 • Tech stack: React, Redux, Router, Styled components, Immer, react-transition-group.
 
-Tic Tac Toe. [www](http://artur.great-site.net/Portfolio/TicTacToe/) [github](https://github.com/i-am-artur/TicTacToe)
+Tic Tac Toe. [(www)](http://artur.great-site.net/Portfolio/TicTacToe/) [(github)](https://github.com/i-am-artur/TicTacToe)<br />
 Game developed to practice MVC and EventBus.
 • Tech stack: JavaScript, HTML, SCSS/CSS, Webpack
 
-GT Puritas. [www](http://artur.great-site.net/Portfolio/gtpuritas/)
+GT Puritas. [(www)](http://artur.great-site.net/Portfolio/gtpuritas/)<br />
 Website for company, which provides project development of power plants.
 • Tech stack: Vue, Vuex, Less
 • Applied image optimization and lazy component loading
 
-My Webpack 5 boilerplate [github](https://github.com/i-am-artur/Webpack-5-Boilerplate)
+My Webpack 5 boilerplate [github](https://github.com/i-am-artur/Webpack-5-Boilerplate)<br />
 My Gulp boilerplate [github](https://github.com/i-am-artur/gulp-boilerplate)
 
