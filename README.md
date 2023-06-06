@@ -24,8 +24,8 @@
 - JavaScript, AJAX, REST API, JQuery<br/>
 - TypeScript, Zod
 - HTML, CSS, Less, SASS, BEM <br/>
-- Emotion, Styled-components, MUI library, Bootstrap, 
-- Git, Webpack, Gulp <br/>
+- EmotionCSS, MUI, Styled-components, , Bootstrap, 
+- Git, Webpack, Gulp, Vite <br/>
 - MongoDB, mongoose
 - Basic knowldge of Node, MySQL <br/>
 - Photoshop, Figma, Penpot <br/>
@@ -48,21 +48,22 @@ Link: [artur.great-site.net](http://artur.great-site.net)
 
 Website with my work. Developed in NextJS and “exported”. (Does not require Node.) Main goal was to develop website that runs on most servers. 
 - Languages: English, Russian
-- Tech stack: NextJS, React, Styled-Components, Mustache.
+- Tech stack: NextJS, React, Styled-components, Mustache.
 
 #### WORK EXPERIENCE
 
 <b>Idea GIC s.r.o. (Czech Republic)</b>
 
+FilmClick (SaaS) - allows you to automate the work of a film crew at the stage of filming planning.
+
 I was responsible to develop: 
-- Page with movie scenes shooting schedual. User can drag-and-drop scenes to calendar and sort their position to organize schedual. Every drag-and-drop operation makes API call and saves state of scenes schedual on server. Scenes can be filtered by many properties. Days of calendar can have properties like blocked, day off and etc.
-- Page where user can create breaks in day schedual (Breaks such as lunch, change of location and etc.) Saved by sending form to server.
-- Page where user can set status of actors in calendar (Statuses are such as available, no status, day off and etc.) Every status change saved to server with API call.
+- Page with movie scenes filming schedule. User can drag-and-drop scenes to calendar and sort their position to organize schedule. Every drag-and-drop operation makes API call and saves state of scenes schedule on server. Scenes can be filtered by many properties. Days of calendar can have properties like blocked, day off and etc.
+- Page where user can create breaks in filming day schedule (Breaks are such as lunch, change of location and etc.) Saved by sending form data to server.
+- Page where user can set status of actors in calendar (Statuses are such as available, no status, day off and etc.) Every status change saved on server with API call.
 
-Technologies: React, typescript, context, axios, styled-components, MUI, FontAwesome
+Tech stack: React, typescript, context, axios, styled-components, MUI, FontAwesome
 
-
-#### PET-PROJECTS
+#### <span style="color: #0A69AB">PET-PROJECTS</span>
 
 <b>Todos list</b> [Github](https://github.com/i-am-artur/todo)
 Plan, manage, and track your tasks
@@ -74,7 +75,31 @@ Development:
 - Redux and reduxjs/toolkit with use of middleware and thunk 
 - React router for navigation between pages
 - Zod for form validation
-- emotion for css. FontAwesome for icons
+- Emotion for CSS. FontAwesome for icons
 - axios-mock-adapter-path-params for server/api emulation
-- typescript to add type safety to the project
+- Typescript to add type safety to the project
+
+Currency Converter. 
+Make calculations with current currency exchange rates. Currency rates are fetched from freecurrencyapi.net
+- React version with Google authentication: [www](http://artur.great-site.net/Portfolio/currency-converter)
+- NextJS version with Github authentication: [www](https://currency-exchange-next-7vaa.vercel.app)
+
+• Tech stack: NextJS, React, Typescript, Redux, Thunk, Styled components, Formik, Yup, Mustache.
+• Languages: English, Russian
+
+ANIONIT. [www](http://artur.greatsite.net/Portfolio/anionit/)
+Website for Antiseptic manufacturer.
+• Tech stack: React, Redux, Router, Styled components, Immer, react-transition-group.
+
+Tic Tac Toe. [www](http://artur.great-site.net/Portfolio/TicTacToe/) [github](https://github.com/i-am-artur/TicTacToe)
+Game developed to practice MVC and EventBus.
+• Tech stack: JavaScript, HTML, SCSS/CSS, Webpack
+
+GT Puritas. [www](http://artur.great-site.net/Portfolio/gtpuritas/)
+Website for company, which provides project development of power plants.
+• Tech stack: Vue, Vuex, Less
+• Applied image optimization and lazy component loading
+
+My Webpack 5 boilerplate [github](https://github.com/i-am-artur/Webpack-5-Boilerplate)
+My Gulp boilerplate [github](https://github.com/i-am-artur/gulp-boilerplate)
 
