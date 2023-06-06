@@ -88,7 +88,7 @@ Make calculations with current currency exchange rates. Currency rates are fetch
 • Tech stack: NextJS, React, Typescript, Redux, Thunk, Styled components, Formik, Yup, Mustache.
 • Languages: English, Russian
 
-<b>ANIONIT</b> [(www)](http://artur.greatsite.net/Portfolio/anionit/)<br />
+<b>ANIONIT</b> [(www)](http://www.artur.great-site.net/Portfolio/anionit/)<br />
 Website for Antiseptic manufacturer.
 • Tech stack: React, Redux, Router, Styled components, Immer, react-transition-group.
 
