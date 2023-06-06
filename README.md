@@ -8,18 +8,18 @@
 &gt; :adult: I am { Artur }
 </b>
 
-## I am Front-end developer
+# I am Front-end developer
 
 - :earth_africa: I am from Ukraine (Kharkiv)<br/>
 - I like :snowboarder:snowboarding, :bicyclist:bicycling and :luggage:travelling
   <br/>
 
-#### CONTACT ME
+## CONTACT ME
 
 - :envelope: adrenalin247@gmail.com
 - <img style="border-radius: 10px; width: 16px;" src="https://github.com/i-am-artur/I-am-artur/blob/master/images/instagram.png"> [www.instagram.com/a_r_t_u_r_karapetyan](www.instagram.com/a_r_t_u_r_karapetyan)
 
-#### MY SKILLS
+## MY SKILLS
 
 - NextJS, React, Redux, Thunk, React Router<br/>
 - JavaScript, AJAX, REST API, JQuery<br/>
@@ -51,9 +51,9 @@ Website with my work. Developed in NextJS and “exported”. (Does not require 
 - Languages: English, Russian
 - Tech stack: NextJS, React, Styled-components, Mustache.
 
-#### WORK EXPERIENCE
+## WORK EXPERIENCE
 
-<b>Idea GIC s.r.o. (Czech Republic)</b>
+### <b>Idea GIC s.r.o. (Czech Republic)</b>
 
 FilmClick (SaaS) - allows you to automate the work of a film crew at the stage of filming planning.
 
