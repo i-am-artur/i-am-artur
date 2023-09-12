@@ -24,13 +24,14 @@
 - NextJS, React, Redux, Thunk, React Router<br/>
 - JavaScript, AJAX, REST API, JQuery<br/>
 - TypeScript, Zod
-- HTML, CSS, Less, SASS, BEM <br/>
-- EmotionCSS, MUI, Styled-components, , Bootstrap, 
-- Git, Webpack, Gulp, Vite <br/>
-- MongoDB, mongoose
-- Basic knowldge of Node, MySQL <br/>
+- HTML, CSS, Less, SCSS, BEM <br/>
+- EmotionCSS, MUI, Styled-components, Bootstrap, 
+- Git, Turbo, Webpack, Gulp, Vite <br/>
+- Drizzle Orm, Mongoose
+- Node, SQL, MySQL, Postgres, MongoDB <br/>
 - Photoshop, Figma, Penpot <br/>
 - Optimization of web-page performance <br/>
+- Use of common algorithm patterns: OOP, MVC, SOLID, DRY, YAGNI, KISS <br/>
 
 I can develop:
 - Pixel perfect web-pages <br/>
@@ -55,7 +56,7 @@ Website with my work. Developed in NextJS and “exported”. (Does not require 
 
 ### <b>Idea GIC s.r.o. (Czech Republic)</b>
 
-FilmClick (SaaS) - allows you to automate the work of a film crew at the stage of filming planning.
+FilmClick (SaaS) - helps to schedule work of filming crews.
 
 I was responsible to develop: 
 - Page with movie scenes filming schedule. User can drag-and-drop scenes to calendar and sort their position to organize schedule. Every drag-and-drop operation makes API call and saves state of scenes schedule on server. Scenes can be filtered by many properties. Days of calendar can have properties like blocked, day off and etc.
@@ -65,6 +66,25 @@ I was responsible to develop:
 Tech stack: React, typescript, context, axios, styled-components, MUI, FontAwesome
 
 ## FREELANCE and PET-PROJECTS
+
+### NextJS 13 boilerplate [(github)](https://github.com/i-am-artur/nextjs13-boilerplate)<br/>
+My next js 13 projects starting template.
+- Turbo multi app repository (admin, shop)
+- Multilingual
+  
+Tech stack:
+- `admin`: a [Next.js](https://nextjs.org/) app
+- `shop`: another [Next.js](https://nextjs.org/) app
+- `MUI`: UI and themes
+- `styled-components`: for style handling
+- `NextAuth`: for authorization
+- `zod`: data validation
+- `drizzle orm`: DB Postgres interaction
+- `nodemailer`: for sending emails
+- `fontawesome`:  icons
+- `shared`: a stub React component library shared by both `shop` and `admin` applications
+- `eslint-config-custom`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
+- `tsconfig`: `tsconfig.json`s used throughout the monorepo
 
 ### Todos list [(github)](https://github.com/i-am-artur/todo)<br/>
 Plan, manage, and track your tasks
