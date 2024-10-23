@@ -21,21 +21,21 @@
 
 ## MY SKILLS
 
-• Frontend: NextJS, React, JavaScript<br>
-• Backend: Node.js, Express, AJAX, REST APIs<br>
-• TypeScript and Zod for type safety and data validation<br>
-• Markup and Styling: HTML, CSS, Less, SCSS, BEM methodology<br>
-• UI Frameworks: MUI, Tailwind CSS, Emotion CSS, Styled-components, Bootstrap<br>
-• Git for version control<br>
-• Build Tools: Turbo Repo, Webpack, Gulp<br>
-• ORMs and Databases: Drizzle ORM, MongoDB/Mongoose, SQL (MySQL/PostgreSQL)<br>
-• Design tools: Photoshop, Figma, Penpot<br>
-• Proficient in applying common design patterns including: OOP, MVC, Event Bus architecture, SOLID principles, DRY, YAGNI, KISS.<br>
-<br>
-Development Capabilities: <br>
-• Expertise in optimizing web page performance for enhanced user experience.<br>
-• Skilled in developing SPAs and pixel-perfect precision pages.<br>
-• Ability to create responsive web pages that adapt across various devices and screens (Windows, Apple, Android, etc.).<br>
+• Frontend: NextJS, React, JavaScript<br/>
+• Backend: Node.js, Express, AJAX, REST APIs<br/>
+• TypeScript and Zod for type safety and data validation<br/>
+• Markup and Styling: HTML, CSS, Less, SCSS, BEM methodology<br/>
+• UI Frameworks: MUI, Tailwind CSS, Emotion CSS, Styled-components, Bootstrap<br/>
+• Git for version control<br/>
+• Build Tools: Turbo Repo, Webpack, Gulp<br/>
+• ORMs and Databases: Drizzle ORM, MongoDB/Mongoose, SQL (MySQL/PostgreSQL)<br/>
+• Design tools: Photoshop, Figma, Penpot<br/>
+• Proficient in applying common design patterns including: OOP, MVC, Event Bus architecture, SOLID principles, DRY, YAGNI, KISS.<br/>
+<br/>
+Development Capabilities: <br/>
+• Expertise in optimizing web page performance for enhanced user experience.<br/>
+• Skilled in developing SPAs and pixel-perfect precision pages.<br/>
+• Ability to create responsive web pages that adapt across various devices and screens (Windows, Apple, Android, etc.).<br/>
 
 
 ## KNOWLEDGE OF LANGUAGES
@@ -116,14 +116,9 @@ Make calculations with current currency exchange rates. Currency rates are fetch
 Website for Antiseptic manufacturer.
 • Tech stack: React, Redux, Router, Styled components, Immer, react-transition-group.
 
-### Tic Tac Toe [(www)](http://artur.great-site.net/Portfolio/TicTacToe/) [(github)](https://github.com/i-am-artur/TicTacToe)
+### Tic Tac Toe [(github)](https://github.com/i-am-artur/TicTacToe)
 Game developed to practice MVC and EventBus.
 • Tech stack: JavaScript, HTML, SCSS/CSS, Webpack
-
-### GT Puritas [(www)](http://artur.great-site.net/Portfolio/gtpuritas/)
-Website for company, which provides project development of power plants.
-• Tech stack: Vue, Vuex, Less
-• Applied image optimization and lazy component loading
 
 ### My Webpack 5 boilerplate</b> [(github)](https://github.com/i-am-artur/Webpack-5-Boilerplate)
 ### My Gulp boilerplate</b> [(github)](https://github.com/i-am-artur/gulp-boilerplate)
