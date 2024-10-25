@@ -1,6 +1,6 @@
 
 <p align="center" width="100%">
-    <img width="100px" src="https://github.com/i-am-artur/I-am-artur/blob/master/images/faviconM.jpg">
+    <img width="200px" src="https://github.com/i-am-artur/I-am-artur/blob/master/images/faviconM.jpg">
 </p>
 
 <b>
