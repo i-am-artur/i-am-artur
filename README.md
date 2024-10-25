@@ -89,14 +89,14 @@ Key Responsibilities and Achievements:<br/>
 
 Tech Stack: NextJS, Turbo monorepo, NextAuth, MUI, Typescript, Zod, Drizzle-orm (Postgres), NodeMailer, styled-components, bcrypt, immer, axios, jodit-react.
 
-Future Learning Goals:
-• Explore CEO optimization techniques
+Future Learning Goals:<br/>
+• Explore CEO optimization techniques<br/>
 • Gain experience in Docker image creation<br/>
 • Learn AWS Lambda functionalities and project deployment<br/>
 • Implement AWS S3 for scalable storage solutions<br/>
 
 ### Tic Tac Toe [(github)](https://github.com/i-am-artur/TicTacToe)
-Developed a Tic Tac Toe game as a personal project to enhance my understanding of the Model-View-Controller (MVC) architecture and EventBus pattern.
+Developed a Tic Tac Toe game as a personal project to enhance my understanding of the Model-View-Controller (MVC) architecture and EventBus pattern.<br/>
 • Tech Stack: JavaScript, SASS, Webpack
 
 ### Currency Converter
