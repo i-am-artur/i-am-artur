@@ -68,6 +68,29 @@ November 2022: Junior Frontend Developer (filmclick.pro)<br/>
 
 ## FREELANCE and PET-PROJECTS
 
+### NextJS CMS Development (Ongoing)[(images)](https://drive.google.com/drive/folders/1ENswE1Ac2AhXaIOtOuqFY4RD0rn-5JQQ?usp=sharing)
+
+Project Overview:
+Developing a boilerplate for a multi-language Content Management System (CMS) designed to streamline the creation of websites, similar to platforms like WordPress and OpenCart.
+
+Key Responsibilities and Achievements:
+• Gained proficiency in utilizing Turbo monorepo architecture, enabling efficient project structuring through microservices.
+• Enhanced coding skills to produce faster, self-documenting code, leading to improved maintainability.
+• Acquired skills in server components, server actions, and middleware in NextJS, focusing on caching strategies and data request management (SSR, SSG, ISR).
+• Evaluated the advantages and disadvantages of incorporating AI tools in the development process.
+• Designed a scalable project file structure for quick source file access, boosting team collaboration.
+• Established a structured approach for data validation, ensuring code clarity and reducing complexity.
+• Created an intuitive API framework that minimizes the need for users to search for API documentation, improving user experience.
+• Integrated email and Google authentication using NextAuth, with plans to expand to additional providers such as Facebook and GitHub.
+• Researched and implemented efficient methods for website interface language translation and file organization.
+• Learned PostgreSQL CRUD operations and optimized query performance for better database interactions.
+• Enhanced TypeScript usage by automating type creation processes and utilizing generics for improved code efficiency.
+• Acquired skills in image and video handling, including cropping and using AbortController.
+
+Tech Stack: NextJS, Turbo monorepo, NextAuth, MUI, Typescript, Zod, Drizzle-orm (Postgres), NodeMailer, styled-components, bcrypt, immer, axios, jodit-react.
+
+Future Learning Goals:  Explore CEO optimization techniques • Gain experience in Docker image creation • Learn AWS Lambda functionalities and project deployment • Implement AWS S3 for scalable storage solutions
+
 ### Currency Converter
 Make calculations with current currency exchange rates. Currency rates are fetched from freecurrencyapi.net
 - React version with Google authentication: [(www)](http://artur.great-site.net/Portfolio/currency-converter)
@@ -77,22 +100,8 @@ Make calculations with current currency exchange rates. Currency rates are fetch
 • Languages: English, Russian
 
 ### Tic Tac Toe [(github)](https://github.com/i-am-artur/TicTacToe)
-Game developed to practice MVC and EventBus.
-• Tech stack: JavaScript, HTML, SCSS/CSS, Webpack
-
-### Todos list [(github)](https://github.com/i-am-artur/todo)<br/>
-Plan, manage, and track your tasks
-
-Development:
-- Designed in Penpot
-- User registration and login with JWT emulation.
-- MUI library for layout, components and display mode (dark/light)
-- Redux and reduxjs/toolkit with use of middleware and thunk 
-- React router for navigation between pages
-- Zod for form validation
-- Emotion for CSS. FontAwesome for icons
-- axios-mock-adapter-path-params for server/api emulation
-- Typescript to add type safety to the project
+Developed a Tic Tac Toe game as a personal project to enhance my understanding of the Model-View-Controller (MVC) architecture and EventBus pattern.
+• Tech Stack: JavaScript, SASS, Webpack
 
 ### My Webpack 5 boilerplate</b> [(github)](https://github.com/i-am-artur/Webpack-5-Boilerplate)
 ### My Gulp boilerplate</b> [(github)](https://github.com/i-am-artur/gulp-boilerplate)
