@@ -73,23 +73,27 @@ November 2022: Junior Frontend Developer (filmclick.pro)<br/>
 Project Overview:
 Developing a boilerplate for a multi-language Content Management System (CMS) designed to streamline the creation of websites, similar to platforms like WordPress and OpenCart.
 
-Key Responsibilities and Achievements:
-• Gained proficiency in utilizing Turbo monorepo architecture, enabling efficient project structuring through microservices.
-• Enhanced coding skills to produce faster, self-documenting code, leading to improved maintainability.
-• Acquired skills in server components, server actions, and middleware in NextJS, focusing on caching strategies and data request management (SSR, SSG, ISR).
-• Evaluated the advantages and disadvantages of incorporating AI tools in the development process.
-• Designed a scalable project file structure for quick source file access, boosting team collaboration.
-• Established a structured approach for data validation, ensuring code clarity and reducing complexity.
-• Created an intuitive API framework that minimizes the need for users to search for API documentation, improving user experience.
-• Integrated email and Google authentication using NextAuth, with plans to expand to additional providers such as Facebook and GitHub.
-• Researched and implemented efficient methods for website interface language translation and file organization.
-• Learned PostgreSQL CRUD operations and optimized query performance for better database interactions.
-• Enhanced TypeScript usage by automating type creation processes and utilizing generics for improved code efficiency.
-• Acquired skills in image and video handling, including cropping and using AbortController.
+Key Responsibilities and Achievements:<br/>
+• Gained proficiency in utilizing Turbo monorepo architecture, enabling efficient project structuring through microservices.<br/>
+• Enhanced coding skills to produce faster, self-documenting code, leading to improved maintainability.<br/>
+• Acquired skills in server components, server actions, and middleware in NextJS, focusing on caching strategies and data request management (SSR, SSG, ISR).<br/>
+• Evaluated the advantages and disadvantages of incorporating AI tools in the development process.<br/>
+• Designed a scalable project file structure for quick source file access, boosting team collaboration.<br/>
+• Established a structured approach for data validation, ensuring code clarity and reducing complexity.<br/>
+• Created an intuitive API framework that minimizes the need for users to search for API documentation, improving user experience.<br/>
+• Integrated email and Google authentication using NextAuth, with plans to expand to additional providers such as Facebook and GitHub.<br/>
+• Researched and implemented efficient methods for website interface language translation and file organization.<br/>
+• Learned PostgreSQL CRUD operations and optimized query performance for better database interactions.<br/>
+• Enhanced TypeScript usage by automating type creation processes and utilizing generics for improved code efficiency.<br/>
+• Acquired skills in image and video handling, including cropping and using AbortController.<br/>
 
 Tech Stack: NextJS, Turbo monorepo, NextAuth, MUI, Typescript, Zod, Drizzle-orm (Postgres), NodeMailer, styled-components, bcrypt, immer, axios, jodit-react.
 
 Future Learning Goals:  Explore CEO optimization techniques • Gain experience in Docker image creation • Learn AWS Lambda functionalities and project deployment • Implement AWS S3 for scalable storage solutions
+
+### Tic Tac Toe [(github)](https://github.com/i-am-artur/TicTacToe)
+Developed a Tic Tac Toe game as a personal project to enhance my understanding of the Model-View-Controller (MVC) architecture and EventBus pattern.
+• Tech Stack: JavaScript, SASS, Webpack
 
 ### Currency Converter
 Make calculations with current currency exchange rates. Currency rates are fetched from freecurrencyapi.net
@@ -99,9 +103,6 @@ Make calculations with current currency exchange rates. Currency rates are fetch
 • Tech stack: NextJS, React, Typescript, Redux, Thunk, Styled components, Formik, Yup, Mustache.
 • Languages: English, Russian
 
-### Tic Tac Toe [(github)](https://github.com/i-am-artur/TicTacToe)
-Developed a Tic Tac Toe game as a personal project to enhance my understanding of the Model-View-Controller (MVC) architecture and EventBus pattern.
-• Tech Stack: JavaScript, SASS, Webpack
 
 ### My Webpack 5 boilerplate</b> [(github)](https://github.com/i-am-artur/Webpack-5-Boilerplate)
 ### My Gulp boilerplate</b> [(github)](https://github.com/i-am-artur/gulp-boilerplate)
